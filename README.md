@@ -1,4 +1,10 @@
 # CrystalPAY SDK | Python
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![GitHub Release Date](https://img.shields.io/github/release-date/An0nX/crystalpay-async-python-sdk)
+![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/An0nX/crystalpay-async-python-sdk?base=8faded1d&head=67b3c2e)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/An0nX/crystalpay-async-python-sdk/total)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/An0nX/crystalpay-async-python-sdk)
 
 Использование
 
